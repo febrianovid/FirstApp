@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BankNameTextStyle">
+        <item name="android:fontFamily">@font/ubuntumedium</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <!-- Define a style for the box text -->
+    <style name="BoxTextStyle">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#000000</item>
+        <!-- Add more styling attributes as needed -->
+    </style>
+
+</resources>
